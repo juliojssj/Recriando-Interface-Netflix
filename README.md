@@ -1,5 +1,5 @@
 # Recriando a Interface do Netflix
-## [Digital Innovation One] (https://web.digitalinnovation.one)
+## [Digital Innovation One](https://web.digitalinnovation.one)
 
 * CSS <br>
 * HTML <br>
